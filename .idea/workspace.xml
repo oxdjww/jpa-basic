@@ -47,9 +47,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15234375",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "vue.rearranger.settings.migration": "true"
   },
@@ -84,8 +84,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696671698098</updated>
-      <workItem from="1696671699149" duration="1275000" />
+      <workItem from="1696671699149" duration="1391000" />
     </task>
+    <task id="LOCAL-00001" summary="test : ide commmit test">
+      <created>1696672984773</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696672984773</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test : ide commmit test">
+      <created>1696673031294</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696673031294</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,5 +116,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test : ide commmit test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test : ide commmit test" />
   </component>
 </project>
