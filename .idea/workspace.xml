@@ -19,6 +19,7 @@
       <list>
         <option value="package.json" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -69,6 +70,11 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="hellojpa" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="JpaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hellojpa.JpaMain" />
@@ -113,7 +119,7 @@
       <workItem from="1696671699149" duration="4852000" />
       <workItem from="1696691464943" duration="40000" />
       <workItem from="1696691511603" duration="2004000" />
-      <workItem from="1700447621278" duration="2954000" />
+      <workItem from="1700447621278" duration="3720000" />
     </task>
     <task id="LOCAL-00001" summary="test : ide commmit test">
       <created>1696672984773</created>
@@ -157,7 +163,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696693042069</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat : 준영속 테스트">
+      <created>1700456659055</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700456659055</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat : 준영속 테스트">
+      <created>1700456673297</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700456673297</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,7 +198,8 @@
     <MESSAGE value="test : ide commmit test" />
     <MESSAGE value="add : add Mainclass" />
     <MESSAGE value="feat : entitymanager persist test" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : entitymanager persist test" />
+    <MESSAGE value="feat : 준영속 테스트" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : 준영속 테스트" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

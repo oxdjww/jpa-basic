@@ -20,9 +20,9 @@ public class JpaMain {
         // code
         try {
             Member findMember = em.find(Member.class, 1L);
-            findMember.setName("HelloJPA");
+            findMember.setUsername("HelloJPA");
 
-            findMember.setName("HelloJPA2");
+            findMember.setUsername("HelloJPA2");
 
             em.clear();
             tx.commit();
