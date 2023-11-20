@@ -24,6 +24,7 @@ public class JpaMain {
 
             findMember.setName("HelloJPA2");
 
+            em.clear();
             tx.commit();
         } catch (Exception e) {
             tx.rollback();
