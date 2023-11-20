@@ -119,7 +119,7 @@
       <workItem from="1696671699149" duration="4852000" />
       <workItem from="1696691464943" duration="40000" />
       <workItem from="1696691511603" duration="2004000" />
-      <workItem from="1700447621278" duration="9441000" />
+      <workItem from="1700447621278" duration="14104000" />
     </task>
     <task id="LOCAL-00001" summary="test : ide commmit test">
       <created>1696672984773</created>
@@ -212,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700468565831</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="feat : 연관관계 설정">
+      <created>1700472537799</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1700472537799</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,7 +246,8 @@
     <MESSAGE value="feat : 데이터 중심 모델링 한계" />
     <MESSAGE value="chore : config files" />
     <MESSAGE value="feat : 객체지향적으로 설계" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : 객체지향적으로 설계" />
+    <MESSAGE value="feat : 연관관계 설정" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : 연관관계 설정" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
