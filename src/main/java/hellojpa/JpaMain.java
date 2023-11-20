@@ -19,17 +19,10 @@ public class JpaMain {
 
         // code
         try {
-//            Member findMember = em.find(Member.class, 1L);
-//            findMember.setName("HelloJPA");
-            // jpql
-            List<Member> result = em.createQuery("select m from Member as m", Member.class)
-                    .setFirstResult(5) // paging
-                    .setMaxResults(8)
-                    .getResultList();
+            Member findMember = em.find(Member.class, 1L);
+            findMember.setName("HelloJPA");
 
-            for (Member member : result) {
-                System.out.println("member.getName() = " + member.getName());
-            }
+            findMember.setName("HelloJPA2");
 
             tx.commit();
         } catch (Exception e) {
